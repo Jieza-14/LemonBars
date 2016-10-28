@@ -14,7 +14,7 @@ function timedRefresh(timeoutPeriod) {
 <p><a href="javascript:timedRefresh(3000)">Refresh this page in 3 seconds...</a></p>
 </div>
 <div class="more-info">
-<p>More info: <a href="/javascript/javascript_refresh_page.cfm">JavaScript Refresh</a></p>
+<p>More information <a href="/javascript/javascript_refresh_page.cfm">JavaScript Refresh</a></p>
 </div>
 </body>
 </html>
